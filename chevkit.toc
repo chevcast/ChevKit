@@ -1,0 +1,14 @@
+## Interface: 80000
+## Title: ChevKit
+## Version: 0.0.1
+## Notes: Random stuff by Chev.
+## Author: Chev
+## RequiredDeps:
+## OptionalDeps:
+## X-Website: http://www.chevtek.com
+## X-License: MIT License
+
+Libs\Libs.xml
+
+Media.lua
+Functions.lua
