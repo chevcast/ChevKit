@@ -1,14 +1,13 @@
-## Interface: 80205
+## Interface: 110002
 ## Title: ChevKit
 ## Version: 0.0.2
-## Notes: Random stuff by Chev.
 ## Author: Chev
 ## RequiredDeps:
 ## OptionalDeps:
-## X-Website: http://www.chevtek.com
+## X-Website: http://www.chevcast.tv
 ## X-License: MIT License
 
 Libs\Libs.xml
 
 Media.lua
-Functions.lua
+Functions.ltuu
