@@ -9,5 +9,4 @@
 
 Libs\Libs.xml
 
-Media.lua
-Functions.ltuu
+Functions.lua

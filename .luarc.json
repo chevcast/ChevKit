@@ -67,6 +67,7 @@
 		"IsShiftKeyDown",
 		"LE_PARTY_CATEGORY_INSTANCE",
 		"LibStub",
+		"Minimap",
 		"NORMAL_FONT_COLOR",
 		"NORMAL_FONT_COLOR_CODE",
 		"NOT_BOUND",
