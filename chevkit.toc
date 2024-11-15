@@ -9,4 +9,5 @@
 
 Libs\Libs.xml
 
-Functions.lua
+ClearAllActionBars.lua
+SummonRandomMount.lua
