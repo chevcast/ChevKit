@@ -4,10 +4,13 @@
 ## Author: Chev
 ## RequiredDeps:
 ## OptionalDeps:
-## X-Website: http://www.chevcast.tv
+## X-Website: http://chevcast.tv
 ## X-License: MIT License
 
 Libs\Libs.xml
 
+Calculator.lua
 ClearAllActionBars.lua
+GowronThings.lua
 SummonRandomMount.lua
+Spreadsheet.lua

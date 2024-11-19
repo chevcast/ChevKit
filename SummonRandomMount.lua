@@ -112,7 +112,7 @@ function SummonRandomMount(mounts)
 end
 
 function SummonRandomPet(pets)
-	if IsMounted() then
+	if IsMounted() or InCombatLockdown() then
 		return
 	end
 	local petName = pets[math.random(#pets)]
