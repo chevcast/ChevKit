@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 110002, 110005
 ## Title: ChevKit
 ## Version: 0.0.2
 ## Author: Chev
@@ -14,3 +14,4 @@ ClearAllActionBars.lua
 GowronThings.lua
 SummonRandomMount.lua
 Spreadsheet.lua
+ToggleInterface.lua
