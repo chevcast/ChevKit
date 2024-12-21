@@ -23,7 +23,7 @@ function GowronAnnounce(msg, emote)
 	if emote then
 		if string.find(emote, "%%s") then
 			if targetName then
-				SendChatMessage(string.format(emote, string.upper(targetName)), "EMOTE")
+				SendChatMessage(string.format(emote, targetName), "EMOTE")
 			else
 				SendChatMessage("Error: No target selected for emote.", "EMOTE")
 			end
